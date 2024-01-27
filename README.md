@@ -1,6 +1,6 @@
 # PRIMIS: PRIvacy-preserving Medical Image Sharing 
 
-This repository serves as a gateway to the primary repository that contains the official PyTorch implementation of our work.
+This repository serves as a gateway to the primary repository that contains the official PyTorch implementation of our research titled "**PRIMIS: Privacy-Preserving Medical Image Sharing via Deep Sparsifying Transform Learning with Obfuscation**", Journal of Biomedical Informatics, Elsevier, 2024.
 
 ## Overview
 
@@ -23,9 +23,8 @@ If you find our work useful in your research, please consider citing our paper. 
 @article{shiri2023primis,
   title={PRIMIS: Privacy-Preserving Medical Image Sharing via Deep Sparsifying Transform Learning with Obfuscation},
   author={Shiri, Isaac and Razeghi, Behrooz and Ferdowsi, Sohrab and Salimi, Yazdan and G{\"u}nd{\"u}z, Deniz and Teodoro, Douglas and oloshynovskiy, Slava and Zaidi, Habib},
-  journal={},
-  volume={},
-  pages={},
-  year={2023},
+  journal={Journal of Biomedical Informatics},
+  volume={150},
+  year={2024},
   publisher={Elsevier}
 }
